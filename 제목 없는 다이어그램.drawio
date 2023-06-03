@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-03T14:40:09.479Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ezKoKECrNJpKOlRyOfA7" version="21.3.6" type="github">
+<mxfile modified="2023-06-03T14:41:26.698Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="s0c-RdK1KQd3dYBfYXfj" version="21.3.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1562" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,13 +115,13 @@
           <mxGeometry x="56.5" y="50" width="97" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-57" value="Channels" style="swimlane;fontSize=14;align=center;swimlaneFillColor=#f4f4f4;fillColor=#f4f4f4;startSize=33;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="36.5" y="276" width="210" height="388.5" as="geometry" />
+          <mxGeometry x="36.5" y="276" width="210" height="560" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-189" value="Fitbit Device" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://assets.stickpng.com/images/62a896ebda9e7313e0262a77.png;" parent="jTYVwC12wdhFCiJbPZCt-57" vertex="1">
-          <mxGeometry x="28.599999999999994" y="209.5" width="147.98" height="142" as="geometry" />
+          <mxGeometry x="42" y="187" width="133.39" height="128" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-190" value="Web Devices" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="jTYVwC12wdhFCiJbPZCt-57" vertex="1">
-          <mxGeometry x="18" y="47.5" width="169.18" height="123.5" as="geometry" />
+          <mxGeometry x="34.980000000000004" y="51" width="140.41" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-129" value="Fitbit data center" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="269.5" y="551.5" width="541.5" height="113" as="geometry" />
@@ -200,6 +200,9 @@
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-236" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png;clipPath=inset(15% 31.67% 15.5% 31%);" parent="RowaHy133K30t5Rv2q9J-1" vertex="1">
           <mxGeometry x="177.41999999999996" y="24" width="63.77" height="79.15" as="geometry" />
+        </mxCell>
+        <mxCell id="RowaHy133K30t5Rv2q9J-6" value="Smartthings API" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://play-lh.googleusercontent.com/zbO2ggF6K2YVII3qOfr0Knj3P0H7OdtTjZAcGBo3kK0vJppGoYsG4TMZINqyPlLa9vI;" vertex="1" parent="1">
+          <mxGeometry x="403" y="701" width="127" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
