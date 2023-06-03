@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-03T14:37:21.259Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="ldArYZT25OExVUTj_FRz" version="21.3.6" type="github">
+<mxfile modified="2023-06-03T14:37:45.037Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="gLG_FBY0T14tO_9CObVz" version="21.3.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1644" dy="971" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,10 +112,7 @@
           <mxGeometry x="36.5" y="99" width="210" height="177" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-55" value="User" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;labelBackgroundColor=none;" vertex="1" parent="jTYVwC12wdhFCiJbPZCt-54">
-          <mxGeometry x="16" y="54" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="jTYVwC12wdhFCiJbPZCt-56" value="Payers" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.corporate_data_center;labelBackgroundColor=none;" vertex="1" parent="jTYVwC12wdhFCiJbPZCt-54">
-          <mxGeometry x="130" y="54" width="53" height="78" as="geometry" />
+          <mxGeometry x="56.5" y="50" width="97" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-57" value="Channels" style="swimlane;fontSize=14;align=center;swimlaneFillColor=#f4f4f4;fillColor=#f4f4f4;startSize=33;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="36.5" y="276" width="210" height="388.5" as="geometry" />
@@ -184,7 +181,7 @@
           <mxGeometry x="748" y="143" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-236" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png;clipPath=inset(15% 31.67% 15.5% 31%);" vertex="1" parent="1">
-          <mxGeometry x="1166" y="336" width="127.71" height="158.5" as="geometry" />
+          <mxGeometry x="1143" y="368.85" width="127.71" height="158.5" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTYVwC12wdhFCiJbPZCt-238" target="7FZe_vqu72Gb_AemOqgQ-30">
           <mxGeometry relative="1" as="geometry" />
