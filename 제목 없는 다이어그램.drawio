@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-04T13:36:09.569Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Sd8pZ0jsNq9COaui4wH7" version="21.3.7" type="github">
+<mxfile modified="2023-06-04T13:37:36.890Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="erMLLNN26a9e0Zf-KDoB" version="21.3.7" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1562" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="7FZe_vqu72Gb_AemOqgQ-30" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mqtt_protocol;" parent="jTYVwC12wdhFCiJbPZCt-1" vertex="1">
           <mxGeometry x="756.5" y="329.79" width="38.62" height="38.62" as="geometry" />
         </mxCell>
-        <mxCell id="73HSKBY3ADE0atvW9rAb-3" value="Service Activation Code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jTYVwC12wdhFCiJbPZCt-1">
+        <mxCell id="73HSKBY3ADE0atvW9rAb-3" value="Service Activation Code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jTYVwC12wdhFCiJbPZCt-1" vertex="1">
           <mxGeometry x="557.5" y="264" width="135.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jTYVwC12wdhFCiJbPZCt-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeColor=#545B64;strokeWidth=2;fontSize=14;" parent="1" target="jTYVwC12wdhFCiJbPZCt-66" edge="1">
@@ -222,16 +222,13 @@
         <mxCell id="RowaHy133K30t5Rv2q9J-6" value="Smartthings API" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://play-lh.googleusercontent.com/zbO2ggF6K2YVII3qOfr0Knj3P0H7OdtTjZAcGBo3kK0vJppGoYsG4TMZINqyPlLa9vI;" parent="RowaHy133K30t5Rv2q9J-1" vertex="1">
           <mxGeometry x="41" y="69.5" width="86" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="73HSKBY3ADE0atvW9rAb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTYVwC12wdhFCiJbPZCt-227" target="jTYVwC12wdhFCiJbPZCt-208">
+        <mxCell id="73HSKBY3ADE0atvW9rAb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jTYVwC12wdhFCiJbPZCt-227" target="jTYVwC12wdhFCiJbPZCt-208" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1029" y="387" />
               <mxPoint x="629" y="387" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="73HSKBY3ADE0atvW9rAb-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="457" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
